@@ -40,8 +40,11 @@ pip install -r requirements.txt
 ![alt text](https://github.com/AmarnathaGowda/InterviewQGen/blob/main/Doc/InterViewQGen.png)
 
 
+## wireframe
+### Initial :
+![alt text](https://github.com/AmarnathaGowda/InterviewQGen/blob/main/Doc/mainpage.png)
+### OutPut : 
 
-
-
+![alt text](https://github.com/AmarnathaGowda/InterviewQGen/blob/main/Doc/output.png)
 
 
