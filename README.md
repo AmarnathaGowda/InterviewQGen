@@ -1,6 +1,13 @@
 # InterviewQGen
 RAG-based interview question and answer generator utilizing the OpneAI GPT model
 
+## Tech stack:
+* **Python 🐍:** A versatile programming language that's widely used in web development, data science, automation, and more.
+* **LangChain 🔗:** A framework for building applications powered by language models.
+* **OpenAI 🤖:** Leveraging state-of-the-art AI models for various applications.
+* **FastAPI 🚀:** A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+* **AWS EC2 ☁️:** Amazon Web Services Elastic Compute Cloud (EC2) provides scalable computing capacity in the cloud, making web-scale cloud computing easier for developers.
+
 
 ## How to run:
 
