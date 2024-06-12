@@ -115,7 +115,7 @@ python3 -m venv .venv
 
 To activate the vertual environment
 ```bash
-python3 -m venv .venv
+source .venv/bin/activate
 ```
 install the requirements
 ```bash
@@ -125,3 +125,7 @@ run the application
 ```bash
 python app.py
 ```
+
+open the Publick IP address in the browser with portnumber 8080
+
+Note: Include the port number 8080 in the security boundary
