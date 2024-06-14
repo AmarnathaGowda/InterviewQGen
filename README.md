@@ -42,6 +42,8 @@ pip install -r requirements.txt
 
 ## The Project arctitcture Details :
 
+![alt text](https://github.com/AmarnathaGowda/InterviewQGen/blob/main/Doc/RAG_GPT_Model.drawio.svg)
+
 ### The structure of the project as below :
 
 ![alt text](https://github.com/AmarnathaGowda/InterviewQGen/blob/main/Doc/InterViewQGen.png)
